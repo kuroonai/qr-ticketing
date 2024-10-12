@@ -1,4 +1,4 @@
-# qr-tickecting
+# qr-ticketing
 
 Generates QR codes as tickets from a guestlist and related information and delivers them to the guests email. This tool requires configuring json file with API in gsheets to provide access to the spreadsheet, which is a well known procedure. Here are the brief steps,
 
